@@ -31,3 +31,8 @@
 
 4. **Conversation Resolution**
    - PR 내 모든 대화(conversation)는 종결되어야 합니다.
+
+5. **Conflict Trouble Shooting**
+   - Conflict 발생시 기존 코드를 우선으로 합니다.
+   - 새로운 코드를 Merge하고싶은 경우 기존 코드를 작성한 사람과 논의를 진행합니다.
+   - 해당 논의는 Discord > 요청 채널을 사용합니다.
