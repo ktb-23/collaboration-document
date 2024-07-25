@@ -27,6 +27,7 @@
 3. **Pull Request (PR) Approvals**
    - Main과 Dev 브랜치에 병합하기 위해서는 페어 파트너의 Approve가 필요합니다.
    - 코멘트나 피드백에 따른 수정이 완료된 경우에만 Approve 합니다.
+   - 새로운 commit이 PR에 추가된 경우 Approve가 취소됩니다.
 
 4. **Conversation Resolution**
    - PR 내 모든 대화(conversation)는 종결되어야 합니다.
